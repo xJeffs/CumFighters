@@ -1009,3 +1009,6 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.14-14.52.00:264][279]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
 [2021.10.14-14.52.00:264][279]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
 [2021.10.14-14.53.56:663][200]LogSlate: Window 'Source Control Login' being destroyed
+[2021.10.14-15.13.47:881][369]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'
+[2021.10.14-15.13.49:674][496]LogSlate: Window 'Changelists' being destroyed
+[2021.10.14-15.13.49:677][496]LogSlate: Window 'Changelists' being destroyed
