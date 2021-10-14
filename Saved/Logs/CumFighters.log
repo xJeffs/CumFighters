@@ -1012,3 +1012,15 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.14-15.13.47:881][369]SourceControl: Error: Operation 'UpdateChangelistsStatus' not supported by source control provider 'Git'
 [2021.10.14-15.13.49:674][496]LogSlate: Window 'Changelists' being destroyed
 [2021.10.14-15.13.49:677][496]LogSlate: Window 'Changelists' being destroyed
+[2021.10.14-15.26.44:172][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/9VUtzUmS_400x400" FILE="../../../../../../Users/j3hef/Documents/Unreal Projects/CumFighters/Content/9VUtzUmS_400x400.uasset" SILENT=true
+[2021.10.14-15.26.44:174][511]LogSavePackage: Moving '../../../../../../Users/j3hef/Documents/Unreal Projects/CumFighters/Saved/9VUtzUmS_400x400E434F5754EB70AC61D5AA48BF0CC31D6.tmp' to '../../../../../../Users/j3hef/Documents/Unreal Projects/CumFighters/Content/9VUtzUmS_400x400.uasset'
+[2021.10.14-15.26.50:735][511]LogSlate: Window 'Submit Files' being destroyed
+[2021.10.14-15.26.50:742][511]AssetCheck: New page: Asset Save: 9VUtzUmS_400x400
+[2021.10.14-15.26.50:742][511]LogContentValidation: Display: Validating Texture2D /Game/9VUtzUmS_400x400.9VUtzUmS_400x400
+[2021.10.14-15.26.55:325][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.10.14-15.26.55:353][920]LogSavePackage: Moving '../../../../../../Users/j3hef/Documents/Unreal Projects/CumFighters/Saved/FirstPersonExampleMapDEFEE2884B90AF181E11019274FF6602.tmp' to '../../../../../../Users/j3hef/Documents/Unreal Projects/CumFighters/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.14-15.26.55:826][920]LogSavePackage: Moving '../../../../../../Users/j3hef/Documents/Unreal Projects/CumFighters/Saved/FirstPersonExampleMap_BuiltDataCCFB4E9B4F7B4A1B817660B87B0384FE.tmp' to '../../../../../../Users/j3hef/Documents/Unreal Projects/CumFighters/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.14-15.26.56:005][920]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.683
+[2021.10.14-15.26.56:011][920]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.14-15.26.56:011][920]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.14-15.26.56:011][920]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
